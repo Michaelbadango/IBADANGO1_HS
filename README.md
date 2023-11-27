@@ -1,4 +1,4 @@
 # PRACTIVA1_HS
-## PRACTICA GIT MARKDOWN
-** Desarrollo de software**
+## Michael Ibadango
+*Desarrollo de software
 *Heramientas*
