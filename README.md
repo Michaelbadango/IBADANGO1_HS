@@ -1,4 +1,5 @@
 # PRACTIVA1_HS
 ## Michael Ibadango
-*Desarrollo de software
-*Heramientas
+
+* Desarrollo de software
+* Heramientas
